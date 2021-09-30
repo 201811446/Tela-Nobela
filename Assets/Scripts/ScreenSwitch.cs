@@ -6,13 +6,9 @@ using UnityEngine.SceneManagement;
 public class ScreenSwitch : MonoBehaviour
 {
     
-    public void Start()
+    public void StartGame()
     {
-        
+        SceneManager.LoadScene("MainMenu");
     }
 
-    public void DressUp()
-    {
-        
-    }
 }

@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DressUp.unity
     guid: 1a91cb61d33d4424ebc18b7f4b29f209
+  - enabled: 1
+    path: Assets/Scenes/Story.unity
+    guid: 4bb098e50ece81047b6893fb94a4b640
+  - enabled: 1
+    path: Assets/Scenes/Terno.unity
+    guid: 30f6595eb4eca3e4e857ff457a0c7772
   m_configObjects: {}
