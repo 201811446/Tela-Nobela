@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class ScreenSwitch : MonoBehaviour
 {
-    
     public void StartGame()
     {
         SceneManager.LoadScene("MainMenu");
