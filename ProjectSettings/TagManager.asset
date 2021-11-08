@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: bg
+    uniqueID: 2330931435
+    locked: 0
+  - name: doll
+    uniqueID: 1343249417
+    locked: 0
+  - name: buttons
+    uniqueID: 844248017
+    locked: 0
