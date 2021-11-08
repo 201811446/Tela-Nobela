@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: c632951a2b704f349b4927243c299e89
   - enabled: 1
-    path: Assets/Scenes/DressUp.unity
+    path: Assets/Scenes/DressUp1.unity
     guid: 1a91cb61d33d4424ebc18b7f4b29f209
   - enabled: 1
     path: Assets/Scenes/Story.unity
@@ -20,4 +20,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Terno.unity
     guid: 30f6595eb4eca3e4e857ff457a0c7772
+  - enabled: 1
+    path: Assets/Scenes/DressUp3.unity
+    guid: dec402fa734ae164fa8e941e30cf352a
+  - enabled: 1
+    path: Assets/Scenes/PopUp.unity
+    guid: 38d27fa16127f7e4d8692c56c48c57ff
+  - enabled: 1
+    path: Assets/Scenes/DressUp2.unity
+    guid: 56c32e33929a21d4b878ac57248cff52
+  - enabled: 1
+    path: Assets/Scenes/Minigame.unity
+    guid: b042237aec4f18d4e9de4d4b727a4cd7
   m_configObjects: {}
