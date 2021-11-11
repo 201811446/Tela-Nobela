@@ -7,7 +7,7 @@ public class MainMenu : MonoBehaviour
 {
     public void Story()
     {
-        SceneManager.LoadScene("StoryMenu-Maria");
+        SceneManager.LoadScene("StoryMenu-Star");
     }
     public void Dressup()
     {
