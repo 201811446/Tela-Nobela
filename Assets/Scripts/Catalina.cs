@@ -23,6 +23,6 @@ public class Catalina : MonoBehaviour
     }
     public void StoryCatalina()
     {
-        SceneManager.LoadScene("Catalina-Story");
+        SceneManager.LoadScene("Tap to Read - Catalina of Dumaguete");
     }
 }

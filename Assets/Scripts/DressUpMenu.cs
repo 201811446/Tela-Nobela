@@ -7,15 +7,15 @@ public class DressUpMenu : MonoBehaviour
 {
     public void Maria()
     {
-        SceneManager.LoadScene("DressUp");
+        SceneManager.LoadScene("DressUp1");
     }
     public void Catalina()
     {
-        SceneManager.LoadScene("DressUp");
+        SceneManager.LoadScene("DressUp2");
     }
     public void Star()
     {
-        SceneManager.LoadScene("DressUp");
+        SceneManager.LoadScene("DressUp3");
     }
     public void Gear()
     {

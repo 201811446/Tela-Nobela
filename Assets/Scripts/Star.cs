@@ -23,6 +23,6 @@ public class Star : MonoBehaviour
     }
     public void StoryStar()
     {
-        SceneManager.LoadScene("Star-Story");
+        SceneManager.LoadScene("Tap to Read - How the Moon and Stars came to Be");
     }
 }

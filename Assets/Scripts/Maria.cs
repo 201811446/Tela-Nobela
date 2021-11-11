@@ -23,6 +23,6 @@ public class Maria : MonoBehaviour
     }
     public void StoryMaria()
     {
-        SceneManager.LoadScene("Maria-Story");
+        SceneManager.LoadScene("Tap to Read - Maria Makiling");
     }
 }
