@@ -24,21 +24,57 @@ EditorBuildSettings:
     path: Assets/Scenes/Tap to Read - Catalina of Dumaguete.unity
     guid: 3c474cc299334b640a6e9c51a561748b
   - enabled: 1
-    path: Assets/Scenes/Tap to Read - How the Moon and Stars came to Be.unity
-    guid: b5107c042f5c6584c9786052afbcf6cd
-  - enabled: 1
     path: Assets/Scenes/Tap to Read - Maria Makiling.unity
     guid: 6cb6f890e863d294a877e5eaf2ab3197
   - enabled: 1
-    path: Assets/Scenes/DressUpMenu.unity
+    path: Assets/Scenes/DressUp/DressUpMenu.unity
     guid: 302704276dc934442afad6f9f43d4ef7
   - enabled: 1
-    path: Assets/Scenes/DressUp1.unity
+    path: Assets/Scenes/DressUp/DressUp1.unity
     guid: 1a91cb61d33d4424ebc18b7f4b29f209
   - enabled: 1
-    path: Assets/Scenes/DressUp2.unity
+    path: Assets/Scenes/DressUp/DressUp2.unity
     guid: 56c32e33929a21d4b878ac57248cff52
   - enabled: 1
-    path: Assets/Scenes/DressUp3.unity
+    path: Assets/Scenes/DressUp/DressUp3.unity
     guid: dec402fa734ae164fa8e941e30cf352a
+  - enabled: 1
+    path: Assets/Scenes/SelectLanguage.unity
+    guid: 05f3d57f2cb73954fae0133ebc97f1cd
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read - How the Moon and Stars came to Be - tag.unity
+    guid: d7c3467a446714040ac6a4507c245875
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read - How the Moon and Stars came to Be - eng.unity
+    guid: 87aaf5ecd60f0584e9b8b33991d176d8
+  - enabled: 1
+    path: Assets/Scenes/Minigame/Minigame.unity
+    guid: b042237aec4f18d4e9de4d4b727a4cd7
+  - enabled: 1
+    path: Assets/Scenes/Minigame/LOSE.unity
+    guid: 5dccad10eb254be41b9f9f7930a76d45
+  - enabled: 1
+    path: Assets/Scenes/Minigame/WIN.unity
+    guid: 6bf4482e5c9e40d4981ccc6696ca97d2
+  - enabled: 1
+    path: Assets/Scenes/Minigame/HOWTO.unity
+    guid: 9f221976169d04d42b7c4c88ecd3ee0b
+  - enabled: 1
+    path: Assets/Scenes/DressUp/DSEL1.unity
+    guid: 8ec9827d507dabc4797640a9b01e19e2
+  - enabled: 1
+    path: Assets/Scenes/DressUp/DSEL3.unity
+    guid: 658ad3dc4e225de4db4b3cfb1cbf6b4c
+  - enabled: 1
+    path: Assets/Scenes/DressUp/DSEL2.unity
+    guid: 05a5d360f51dab04aba02f6e27cd4949
+  - enabled: 1
+    path: Assets/Scenes/DressUp/DressUp4.unity
+    guid: ba4aa5d1042d1394084665e9d84b43d9
+  - enabled: 1
+    path: Assets/Scenes/DressUp/DressUp5.unity
+    guid: 517d2a569d72add43b53c2587a06ee6d
+  - enabled: 1
+    path: Assets/Scenes/DressUp/DressUp6.unity
+    guid: 8eadf97de2ad3cb489470f2079c68e0a
   m_configObjects: {}

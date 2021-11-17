@@ -22,10 +22,7 @@ public class CoinCounter : MonoBehaviour
         currentcoins.text = coins.ToString();
     }
 
-    public void CoinInc()
-    {
-        coins += 1;
-    }
+    
 
 }
 

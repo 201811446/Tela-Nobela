@@ -15,7 +15,7 @@ public class MainMenu : MonoBehaviour
     }
     public void MiniGame()
     {
-        SceneManager.LoadScene("Minigame");
+        SceneManager.LoadScene("HOWTO");
     }
     public void Back()
     {

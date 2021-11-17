@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using System;
+using UnityEngine.SceneManagement;
 
 public class Timer : MonoBehaviour
 {
-     bool timerActive = false;
-     float currentTime;
+     public bool timerActive = false;
+     public float currentTime;
      public int startMinutes;
      public Text currentTimeText;
 
@@ -26,7 +27,7 @@ public class Timer : MonoBehaviour
             if (currentTime <= 0)
             {
                 timerActive = false;
-                Start();
+                SceneManager.LoadScene("LOSE");
             }
          }
          TimeSpan time = TimeSpan.FromSeconds(currentTime);

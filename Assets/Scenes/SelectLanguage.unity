@@ -297,7 +297,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Tap to Read - How the Moon and Stars came to Be
+          m_StringArgument: Tap to Read - How the Moon and Stars came to Be - eng
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &900762949
@@ -667,7 +667,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1439398404}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2020605722}
+        m_TargetAssemblyTypeName: NewScene, Assembly-CSharp
+        m_MethodName: change_scene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Tap to Read - How the Moon and Stars came to Be - tag
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1439398404
 MonoBehaviour:
   m_ObjectHideFlags: 0
