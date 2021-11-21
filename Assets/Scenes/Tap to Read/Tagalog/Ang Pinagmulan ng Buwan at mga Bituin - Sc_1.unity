@@ -1390,9 +1390,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textDisplay: {fileID: 74068485}
   sentences:
-  - How the moon and Stars Came to be (Cole, M. (1916))
-  - One day, in the times when the sky was close to the ground, a spinster went out
-    to pound rice.
+  - Ang Pinagmulan ng Buwan at mga Bituin (Cole, M. (1916))
+  - "Isang araw noong ang langit ay mababa\u2019t malapit sa lupa, may dalagang lumabas
+    upang magbayo "
+  - 'ng palay. '
   typingSpeed: 0.02
   continueButton: {fileID: 139768959}
 --- !u!1 &1607971792

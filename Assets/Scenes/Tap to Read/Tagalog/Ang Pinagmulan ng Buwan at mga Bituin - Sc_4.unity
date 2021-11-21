@@ -1390,9 +1390,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textDisplay: {fileID: 74068485}
   sentences:
-  - How the moon and Stars Came to be (Cole, M. (1916))
-  - One day, in the times when the sky was close to the ground, a spinster went out
-    to pound rice.
+  - 'Hindi na niya maabot ang kanyang kuwintas at suklay mula sa pinagsabitan sa
+    sobrang taas ng '
+  - "langit. At dahil doon, nanatili sa langit ang kanyang mga gamit. Ang suklay
+    naiwan bilang buwan \u2013 "
+  - 'ang liwanag sa gitna ng dilim. Samantalang ang kayang kuwintas ay nagkalat sa
+    langit at kinikilala '
+  - 'na natin bilang mga bituin. '
+  - Wakas. Cole, M. (1916). Philippine Folk Tales.
   typingSpeed: 0.02
   continueButton: {fileID: 139768959}
 --- !u!1 &1607971792
