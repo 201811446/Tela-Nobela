@@ -77,4 +77,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DressUp/DressUp6.unity
     guid: 8eadf97de2ad3cb489470f2079c68e0a
+  - enabled: 1
+    path: Assets/Scenes/SttoryDressUp/StoryDressUp1.unity
+    guid: ffffdec9face8074c93f51f3b98a846d
+  - enabled: 1
+    path: Assets/Scenes/SttoryDressUp/StoryDressUp2.unity
+    guid: 97d828ec4e6befb4092812a2e61fb506
+  - enabled: 1
+    path: Assets/Scenes/SttoryDressUp/StoryDressUp3.unity
+    guid: cb319b19e301aab4ea15b523274d74cb
+  - enabled: 1
+    path: Assets/Scenes/SttoryDressUp/SDA.unity
+    guid: 91caaa17151cb474fa21ba8390b66d05
+  - enabled: 1
+    path: Assets/Scenes/SttoryDressUp/SDB.unity
+    guid: 8b9a598c21b655841ad1d3c2693f76f0
+  - enabled: 1
+    path: Assets/Scenes/SttoryDressUp/SDC.unity
+    guid: e54d6168ad179cf4aa6d351c91b51dc0
   m_configObjects: {}
