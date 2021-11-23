@@ -10,7 +10,8 @@ public class DialogText : MonoBehaviour
     private int index; 
     public float typingSpeed;
    
-    public GameObject continueButton;    
+    public GameObject continueButton;
+    public GameObject Next;
 
     // Start is called before the first frame update
     void Start()
@@ -43,6 +44,7 @@ public class DialogText : MonoBehaviour
       } else {
          textDisplay.text = "";
          continueButton.SetActive(false);
+         Next.SetActive(true);
       }
     }
 }

@@ -24,7 +24,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Tap to Read - Catalina of Dumaguete.unity
     guid: 3c474cc299334b640a6e9c51a561748b
   - enabled: 1
-    path: Assets/Scenes/Tap to Read - Maria Makiling.unity
+    path: Assets/Scenes/Tap to Read/Tagalog/Maria Makiling - Sc_1.unity
     guid: 6cb6f890e863d294a877e5eaf2ab3197
   - enabled: 1
     path: Assets/Scenes/DressUp/DressUpMenu.unity
