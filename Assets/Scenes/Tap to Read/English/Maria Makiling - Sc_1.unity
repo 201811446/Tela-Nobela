@@ -157,7 +157,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
   m_AnchoredPosition: {x: 5.7275095, y: -141.79999}
+=======
+  m_AnchoredPosition: {x: 5.7275095, y: -137.49998}
+>>>>>>> Stashed changes
   m_SizeDelta: {x: 551.033, y: 54.8235}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &74068485
@@ -292,7 +296,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
   m_AnchoredPosition: {x: 257.9, y: -175.9}
+=======
+  m_AnchoredPosition: {x: 257.9, y: -171.59999}
+>>>>>>> Stashed changes
   m_SizeDelta: {x: 189.895, y: 34.12}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &139768961
@@ -339,7 +347,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1462111478}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: DialogText, Assembly-CSharp
         m_MethodName: NextSentence
         m_Mode: 1
@@ -726,7 +734,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
   m_AnchoredPosition: {x: -124.5, y: -94.3}
+=======
+  m_AnchoredPosition: {x: -124.5, y: -90}
+>>>>>>> Stashed changes
   m_SizeDelta: {x: 290.578, y: 22.21}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1040608486
@@ -1407,9 +1419,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1462111476}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39bb68737181d004c9398f5d6a6dc6e2, type: 3}
+  m_Script: {fileID: 11500000, guid: 14b4016c8ef7b1b409141ef479f495bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
   textDisplay: {fileID: 74068485}
   sentences:
   - 'Mariang Makiling, the Fairy of the Mountain. '
@@ -1423,6 +1436,12 @@ MonoBehaviour:
   typingSpeed: 0.02
   continueButton: {fileID: 139768959}
   Next: {fileID: 0}
+=======
+  textDisplay1: {fileID: 74068485}
+  sentences1: []
+  typingSpeed1: 0
+  continueButton1: {fileID: 139768959}
+>>>>>>> Stashed changes
 --- !u!1 &1735314549
 GameObject:
   m_ObjectHideFlags: 0
