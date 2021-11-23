@@ -339,7 +339,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1462111478}
+      - m_Target: {fileID: 1462111479}
         m_TargetAssemblyTypeName: DialogText, Assembly-CSharp
         m_MethodName: NextSentence
         m_Mode: 1
@@ -1544,9 +1544,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textDisplay: {fileID: 74068485}
   sentences:
-  - 
-  - 
-  - 
+  - Ang Pinagmulan ng Buwan at mga Bituin (Cole, M. (1916))
+  - "Isang araw noong ang langit ay mababa\u2019t malapit sa lupa, may dalagang lumabas
+    upang magbayo "
+  - ng palay.
   typingSpeed: 0.02
   continueButton: {fileID: 139768959}
   Next: {fileID: 144217035}
