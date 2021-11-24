@@ -214,7 +214,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: MainMenu
+          m_StringArgument: Maria Makiling - Int_2.1 1
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &24952744
@@ -1376,7 +1376,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1462111477}
-  - component: {fileID: 1462111478}
   - component: {fileID: 1462111479}
   m_Layer: 0
   m_Name: Dialog Manager
@@ -1399,47 +1398,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1462111478
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1462111476}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39bb68737181d004c9398f5d6a6dc6e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  textDisplay: {fileID: 74068485}
-  sentences:
-  - 'Ayon sa mga taong nakakita sa kanya, siya ay babae na matangkad at maganda.
-    Siya ay '
-  - 'kayumanggi na may malaki na itim na mata, at mahabang itim na buhok na abot
-    halos sa kanyang '
-  - 'paa. Siya ay mahiwagang nilalang, na mula sa mga ibang diwata. Ang kanyang puting
-    damit ay '
-  - 'gawa sa ilaw ng buwan at sa ambon at ulap mula sa lawa. '
-  - 'May lola na nagsabi na nakita siya nung bata siya habang naglalakad sa parang.
-    Sa gaan ng '
-  - 'kanyang tapak ay hindi kumukurba ang damo sa ilalim ng kanyang paa. May mga
-    nanghuhuli ng '
-  - 'usa na nakilala siya sa dulo ng isang talampas, ang buhok niya ay nagalaw sa
-    ihip ng hangin sa '
-  - 'ilalim ng liwanag ng buwan. '
-  - 'Marami nagsasabi na nakita nila si Maria na nakaupo sa isang bato sa tabi ng
-    ilog, para bang iniisip '
-  - 'ang pagdaloy ng tubig. Ang isang matandang mangangaso naman ay nakita siyang
-    naliligo sa isang '
-  - 'sikretong batis isang tahimik na gabi. Sa mga gabing maliwanag, ang mga tao
-    ng rehiyon ay '
-  - 'sinasabing may naririnig silang alpa pati magandang boses na kumakanta ng mga
-    misteryoso at '
-  - 'mapanglaw na kanta. Sabi nila na ang diwatang si Maria ay kinakantahan ang lahat
-    ng naka tira sa '
-  - 'kanyang teritoryo. '
-  typingSpeed: 0.02
-  continueButton: {fileID: 139768959}
 --- !u!114 &1462111479
 MonoBehaviour:
   m_ObjectHideFlags: 0

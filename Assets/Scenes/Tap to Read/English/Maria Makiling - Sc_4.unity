@@ -964,7 +964,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: MainMenu
+          m_StringArgument: Maria Makiling - Sc_5
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1290776307
@@ -1376,7 +1376,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1462111477}
-  - component: {fileID: 1462111478}
   - component: {fileID: 1462111479}
   m_Layer: 0
   m_Name: Dialog Manager
@@ -1399,50 +1398,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1462111478
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1462111476}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39bb68737181d004c9398f5d6a6dc6e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  textDisplay: {fileID: 74068485}
-  sentences:
-  - "She doesn\u2019t just take care of the animals and plants of forests, prairies
-    and mountains, but also the "
-  - 'humans that inhabit them. Compassionate, with a tender heart, she has appeared
-    innumerable times '
-  - 'under different guises to the old and to poor villagers who have gone into the
-    woods in search of '
-  - 'firewood and fruit. She slipped gold nuggets, money, and jewelry into their
-    pockets. And they also '
-  - 'say that many poor villagers, asking for help to celebrate certain ceremonies,
-    received jewels, and '
-  - 'fine clothes. They also received dinnerware and cutlery in exchange for a white
-    hen that has not yet '
-  - laid eggs.
-  - 'It is said that a young hunter, chasing a boar through the thorn bushes of the
-    meadows, suddenly '
-  - "found the fairy\u2019s hut, where the boar was taking refuge. Shortly afterwards,
-    a beautiful young woman"
-  - "came out saying calmly: \u2018The boar belongs to me. I see that you have hurt
-    yourself while chasing it, "
-  - "and I see that you are weary. Come in, eat something and then leave and go your
-    way.\u2019 Confused "
-  - 'and amazed, but above all fascinated by her beauty, the young man had obeyed
-    her with pleasure. '
-  - 'He ate everything that she offered him, but was unable to utter a single word.
-    Before he left, Mariang '
-  - 'Makiling gave him some pieces of ginger. After thanking her, the hunter put
-    the ginger in his hat.  '
-  - 'When he arrived home, he discovered that the ginger had turned into gold. '
-  typingSpeed: 0.02
-  continueButton: {fileID: 139768959}
 --- !u!114 &1462111479
 MonoBehaviour:
   m_ObjectHideFlags: 0

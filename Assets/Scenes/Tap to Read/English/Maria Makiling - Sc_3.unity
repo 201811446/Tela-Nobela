@@ -1244,7 +1244,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1462111477}
-  - component: {fileID: 1462111478}
   - component: {fileID: 1462111479}
   m_Layer: 0
   m_Name: Dialog Manager
@@ -1267,45 +1266,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1462111478
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1462111476}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39bb68737181d004c9398f5d6a6dc6e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  textDisplay: {fileID: 74068485}
-  sentences:
-  - It has been many years since anyone has claimed to have seen Mariang Makiling.
-    Her vaporous
-  - 'silhouette is no longer seen crossing meadows, nor bathing in the waterfalls
-    under the moonlight. '
-  - 'No one hears her mysterious harp anymore, nor do lovers receive jewelry or gifts
-    from her on their '
-  - 'wedding day. Some say that it is because the inhabitants of a neighbouring village
-    did not comply '
-  - 'with their agreement to give her a white hen. Others say that this is a petty
-    excuse, and that she '
-  - 'stopped showing herself because the Spanish Dominican friars wanted to appropriate
-    half of Mount '
-  - 'Makiling. But some people also claim that she disappeared because of a love
-    disappointment with a '
-  - young farmer, whose parents she had helped to take care of for many years.
-  - 'Others say that she has distanced herself from humans because of the excessive
-    hunting and the '
-  - indiscriminate felling of trees.
-  - 'In any case, what is evident is that human beings, for one reason or another,
-    have disappointed her, '
-  - 'and she has stopped showing her beneficent, mysterious and beautiful presence
-    to them. '
-  - The End. Cutanda, G. A. (2018). Mariang Makiling, the Fairy of the Mountain
-  typingSpeed: 0.02
-  continueButton: {fileID: 139768959}
 --- !u!114 &1462111479
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1406,7 +1366,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: MainMenu
+          m_StringArgument: Maria Makiling - Int_3.1
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1634686366

@@ -1376,7 +1376,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1462111477}
-  - component: {fileID: 1462111478}
   - component: {fileID: 1462111479}
   m_Layer: 0
   m_Name: Dialog Manager
@@ -1399,44 +1398,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1462111478
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1462111476}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39bb68737181d004c9398f5d6a6dc6e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  textDisplay: {fileID: 74068485}
-  sentences:
-  - 'Naka ilang taon na mula sa huling nagsabi na nakita nila si Maria. Ang kanyang
-    anino ay hindi na '
-  - 'makikita sa gubat, o kaya sa batis at talon tuwing gabi. Wala na ang nakakarinig
-    ng kanyang alpa, '
-  - 'at wala ring mag-asawa na nakakakuha ng alahas o regalo sa kanilang araw ng
-    kasal. May mga '
-  - 'nagsasabi na ito ay dahil sa isang nayon na hindi sumunod at hindi nag bigay
-    sa kanya ng puting '
-  - manok. May mga nagsasabi na iba ang dahilan, na siya ay nagtago dahil sa mga
-    prayle sa Bundok
-  - ng Makiling. Ngunit may mga nagsasabi rin na nawala siya dahil sa pagkabigo ng
-    kanyang puso
-  - dahil sa isang magsasaka. At ang mga magulang ng magsasaka ay tinulungan at inalagaan
-    ni Maria
-  - 'ng maraming taon. '
-  - 'May mga nagsasabi rin na lumayo siya sa mga tao dahil sa sobra-sobrang pangangaso
-    at pagputol '
-  - 'ng puno.  '
-  - "Anuman ang nangyari, maliwanag na nalungkot siya dahil sa mga tao, at siya\u2019y
-    tumigil sa "
-  - 'pagpapakita at pagtulong sa kanila. '
-  - Wakas. Cutanda, G. A. (2018). Mariang Makiling, the Fairy of the Mountain
-  typingSpeed: 0.02
-  continueButton: {fileID: 139768959}
 --- !u!114 &1462111479
 MonoBehaviour:
   m_ObjectHideFlags: 0

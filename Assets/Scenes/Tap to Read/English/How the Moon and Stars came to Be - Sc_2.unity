@@ -1150,7 +1150,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: MainMenu
+          m_StringArgument: How the Moon and Stars came to Be - Int_2.1
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &920832353
@@ -1501,7 +1501,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1462111477}
-  - component: {fileID: 1462111478}
   - component: {fileID: 1462111479}
   m_Layer: 0
   m_Name: Dialog Manager
@@ -1524,26 +1523,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1462111478
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1462111476}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39bb68737181d004c9398f5d6a6dc6e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  textDisplay: {fileID: 74068485}
-  sentences:
-  - 'Then she began working. Each time that she raised her pestle into the air, it
-    reached the sky. For '
-  - 'some time she pounded the rice, and she raised the pestle so high that it struck
-    the sky every time. '
-  typingSpeed: 0.02
-  continueButton: {fileID: 139768959}
 --- !u!114 &1462111479
 MonoBehaviour:
   m_ObjectHideFlags: 0

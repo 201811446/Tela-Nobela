@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/StartScreen.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: 64df30fa5a69bcc41b8808ce0bd6526e
-  - enabled: 1
     path: Assets/Scenes/StoryMenu-Catalina.unity
     guid: 43a19deae4ff80c45a93769fab04effd
   - enabled: 1
@@ -93,9 +90,262 @@ EditorBuildSettings:
     path: Assets/Scenes/Minigame/Minigame.unity
     guid: b042237aec4f18d4e9de4d4b727a4cd7
   - enabled: 1
-    path: Assets/Scenes/Minigame/LOSE.unity
-    guid: 5dccad10eb254be41b9f9f7930a76d45
-  - enabled: 1
     path: Assets/Scenes/Minigame/WIN.unity
     guid: 6bf4482e5c9e40d4981ccc6696ca97d2
+  - enabled: 1
+    path: Assets/Scenes/Minigame/LOSE.unity
+    guid: 3816f02d6950fae409760655c96f5110
+  - enabled: 1
+    path: Assets/Update2/Menu/MainMenu.unity
+    guid: c632951a2b704f349b4927243c299e89
+  - enabled: 1
+    path: Assets/Scenes/DressUp/DSEL1.unity
+    guid: 8ec9827d507dabc4797640a9b01e19e2
+  - enabled: 1
+    path: Assets/Scenes/DressUp/DSEL2.unity
+    guid: 05a5d360f51dab04aba02f6e27cd4949
+  - enabled: 1
+    path: Assets/Scenes/DressUp/DSEL3.unity
+    guid: 658ad3dc4e225de4db4b3cfb1cbf6b4c
+  - enabled: 1
+    path: Assets/Interactives/Catalina/Catalina_Int2.unity
+    guid: b1571d819e82f8b429481e0513eacf7f
+  - enabled: 1
+    path: Assets/Interactives/Catalina/Catalina_Int3.unity
+    guid: 04cb68bb7b2ef514db42b0cfc3c26f57
+  - enabled: 1
+    path: Assets/Interactives/Catalina/Catalina_Int4.unity
+    guid: 0f8024472497f4a4ca9bfa684551260b
+  - enabled: 1
+    path: Assets/Interactives/Maria/Maria Makiling - Int_2.1.unity
+    guid: 7625e47a06b209043b4f49d46ee56036
+  - enabled: 1
+    path: Assets/Interactives/Maria/Maria Makiling - Int_2.2.unity
+    guid: fad260318c50e3e4d89936233ab5e690
+  - enabled: 1
+    path: Assets/Interactives/Maria/Maria Makiling - Int_2.3.unity
+    guid: 36e29d52c03c1aa4eb162c2056ee61d4
+  - enabled: 1
+    path: Assets/Interactives/Maria/Maria Makiling - Int_3.1.unity
+    guid: 3422cdb1f58daeb4f90f9530080cdf06
+  - enabled: 1
+    path: Assets/Interactives/Maria/Maria Makiling - Int_3.2.unity
+    guid: bc5cae1e0f216234a98cdc90a7432515
+  - enabled: 1
+    path: Assets/Interactives/Maria/Maria Makiling - Int_3.3.unity
+    guid: 389cfa12d884c4f4b8061ea66bfc1ebd
+  - enabled: 1
+    path: Assets/Interactives/Maria/Maria Makiling - Int_3.4.unity
+    guid: 53686512ae443d74f856ef51e041d110
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read/Tagalog/TMaria Makiling - Sc_5.unity
+    guid: bab6f7d8be9309849aa14905788835ee
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read/Tagalog/Ang Pinagmulan ng Buwan at mga Bituin
+      - Sc_1.unity
+    guid: 1e90118737d45a34c902bfec3ffefedc
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read/Tagalog/Ang Pinagmulan ng Buwan at mga Bituin
+      - Sc_2.unity
+    guid: 92e7b75550728bc4a894b1a4c04fd679
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read/Tagalog/Ang Pinagmulan ng Buwan at mga Bituin
+      - Sc_3.unity
+    guid: d8815ee83649c5349bb18f6b4b23435c
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read/Tagalog/Ang Pinagmulan ng Buwan at mga Bituin
+      - Sc_4.unity
+    guid: bc6663c955a98ec4faf8bbe38ff0c2cc
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read/Tagalog/Catalina ng Dumaguete - Sc_1.unity
+    guid: f6b53becca38cb440a947ca336da0ac3
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read/Tagalog/Catalina ng Dumaguete - Sc_2.unity
+    guid: 02907690e2dec3c48b6d1c390e300fc5
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read/Tagalog/Catalina ng Dumaguete - Sc_3.unity
+    guid: cf7e10158d8fd864f96f99941e94ae12
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read/Tagalog/Catalina ng Dumaguete - Sc_4.unity
+    guid: 39b498495b07ec74d98fec2a1b6f1905
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read/Tagalog/Catalina ng Dumaguete - Sc_5.unity
+    guid: bd62eb1fe8091bd4eb7c91539a371c61
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read/Tagalog/TMaria Makiling - Sc_1.unity
+    guid: 6cb6f890e863d294a877e5eaf2ab3197
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read/Tagalog/TMaria Makiling - Sc_2.unity
+    guid: d457734daab4ca247a70ecf08dee8cb8
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read/Tagalog/TMaria Makiling - Sc_3.unity
+    guid: e6fc90c1172e86a4d84da753897b2184
+  - enabled: 1
+    path: Assets/Scenes/Tap to Read/Tagalog/TMaria Makiling - Sc_4.unity
+    guid: 561e7234fc2392f479b29324f0dc761f
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_2.1.unity
+    guid: 72f0d65eaf23eeb4fba75e1ffdc056fe
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_2.2.unity
+    guid: 865914bc8f1402d42a6fddfa4e50f9bd
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_2.3.unity
+    guid: 55bfc6163b57cb244b44ac9fd59abdc9
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_3.1.unity
+    guid: a61fa141da9930343a4cdfdc76087749
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_3.2.unity
+    guid: 08258c52058485a47bdcab019ed0d364
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_3.3.unity
+    guid: 1af6867215e45d744a12fd91b3ef474f
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_4.1.unity
+    guid: c400357dc590a734fab05c1b3bdb1596
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_4.2.unity
+    guid: 53d98ae31c6601d45bd210d1dad574f1
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_4.3.unity
+    guid: 912ce9c4f4208124b9673d8a5b850acc
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_4.4.unity
+    guid: bd32f32701e2312409abba1ab6b9f12a
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_4.5.unity
+    guid: 2a695c3444643f04bbedb7654b908169
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_4.6.unity
+    guid: 8c08cac9664c40540ba4fb2f474ac91f
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_4.7.unity
+    guid: 7e8e1095821f1e148a191cc3744ede82
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_4.8.unity
+    guid: c91dd21a4c9b0244b9cd0b9699aa0144
+  - enabled: 1
+    path: Assets/Interactives/Star/How the Moon and Stars came to Be - Int_4.9.unity
+    guid: c1d1fb6a89b3dc840a1aea44260f5654
+  - enabled: 1
+    path: Assets/Scenes/SelectLanguage1.unity
+    guid: 05f3d57f2cb73954fae0133ebc97f1cd
+  - enabled: 1
+    path: Assets/Scenes/SelectLanguage2.unity
+    guid: aace1459ce6fa4844b3c4154e5f8e927
+  - enabled: 1
+    path: Assets/Scenes/SelectLanguage3.unity
+    guid: 7ea8c5a3509aee8488b26c13ac9e24a6
+  - enabled: 1
+    path: Assets/Interactives/Maria 1/Maria Makiling - Int_2.1 1.unity
+    guid: 1468182741fc96148bb60d5be4936dee
+  - enabled: 1
+    path: Assets/Interactives/Maria 1/Maria Makiling - Int_2.2 1.unity
+    guid: 27f7afc2f8b01eb4db9d13b2fd4c29ba
+  - enabled: 1
+    path: Assets/Interactives/Maria 1/Maria Makiling - Int_2.3 1.unity
+    guid: 7749f7bfa9aa5064981d4d92b3be66c3
+  - enabled: 1
+    path: Assets/Interactives/Maria 1/Maria Makiling - Int_3.1 1.unity
+    guid: f054ad547fef57f4e9912766203485b8
+  - enabled: 1
+    path: Assets/Interactives/Maria 1/Maria Makiling - Int_3.2 1.unity
+    guid: 61f689510106db148819abe1215a5571
+  - enabled: 1
+    path: Assets/Interactives/Maria 1/Maria Makiling - Int_3.3 1.unity
+    guid: 27cea83db9b8a37449a6bedf27cd2bb3
+  - enabled: 1
+    path: Assets/Interactives/Maria 1/Maria Makiling - Int_3.4 1.unity
+    guid: 15ed2b4c0218dcd45874bc398a1e4bb2
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_4.1
+      1.unity
+    guid: 842014370a51d66478e5ef62065a9ed1
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_2.1
+      1.unity
+    guid: 84fa3b14804661440bcbe7d229a1a109
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_3.1
+      1.unity
+    guid: 81705c7258787ce47bfcdf2dcb69ef9f
+  - enabled: 1
+    path: Assets/Interactives/Catalina 1/Catalina_Int4 1.unity
+    guid: 9ceb91cc161f7774e85a8bc330d6a02f
+  - enabled: 1
+    path: Assets/Interactives/Catalina 1/Catalina_Int2 1.unity
+    guid: cd8607ca93946844682c2506f86d8c5f
+  - enabled: 1
+    path: Assets/Interactives/Catalina 1/Catalina_Int3 1.unity
+    guid: 78a3039e91677da479bc12693a8051fc
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_2.2
+      1.unity
+    guid: f5f40e3fe58541c42af8e65ddfef71f8
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_2.3
+      1.unity
+    guid: 4528e194fe59c32438e5bb1a3e8952ae
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_3.2
+      1.unity
+    guid: 01c56a4ec1c1a99439caf6a050181cc5
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_3.3
+      1.unity
+    guid: 4ee182e04f0da7d458079d46b271b63c
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_4.2
+      1.unity
+    guid: 3c5f493d470585f4391e964d553b64de
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_4.3
+      1.unity
+    guid: f4013584d9a166e489c645d1237c8bf9
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_4.4
+      1.unity
+    guid: 85a79b96954c0084aa5f0e72f31b9eb3
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_4.5
+      1.unity
+    guid: 44a850bd2a897be40977898a8fccb416
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_4.6
+      1.unity
+    guid: 6869f64b83ec99a448f808df9b8fe99f
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_4.7
+      1.unity
+    guid: 172a1bdb8d5ce0a488df444411f0ba11
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_4.8
+      1.unity
+    guid: 991d18e6f253a48449cf977b390ac88f
+  - enabled: 1
+    path: Assets/Interactives/Star 1/How the Moon and Stars came to Be - Int_4.9
+      1.unity
+    guid: fb8c0baaeeab1b448a5af5bee81590c2
+  - enabled: 1
+    path: Assets/Scenes/SttoryDressUp/SDA.unity
+    guid: 91caaa17151cb474fa21ba8390b66d05
+  - enabled: 1
+    path: Assets/Scenes/SttoryDressUp/SDB.unity
+    guid: 8b9a598c21b655841ad1d3c2693f76f0
+  - enabled: 1
+    path: Assets/Scenes/SttoryDressUp/SDC.unity
+    guid: e54d6168ad179cf4aa6d351c91b51dc0
+  - enabled: 1
+    path: Assets/Scenes/SttoryDressUp/StoryDressUp3.unity
+    guid: cb319b19e301aab4ea15b523274d74cb
+  - enabled: 1
+    path: Assets/Scenes/SttoryDressUp/StoryDressUp1.unity
+    guid: ffffdec9face8074c93f51f3b98a846d
+  - enabled: 1
+    path: Assets/Scenes/SttoryDressUp/StoryDressUp2.unity
+    guid: 97d828ec4e6befb4092812a2e61fb506
+  - enabled: 1
+    path: Assets/ReadAgain/Read Again.unity
+    guid: d1b8fac43e948d94daee7359a0d09c60
   m_configObjects: {}
