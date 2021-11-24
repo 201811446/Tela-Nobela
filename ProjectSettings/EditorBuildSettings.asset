@@ -32,4 +32,70 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Minigame.unity
     guid: b042237aec4f18d4e9de4d4b727a4cd7
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_2.1.unity
+    guid: 72f0d65eaf23eeb4fba75e1ffdc056fe
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_2.2.unity
+    guid: 865914bc8f1402d42a6fddfa4e50f9bd
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_2.3.unity
+    guid: 55bfc6163b57cb244b44ac9fd59abdc9
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_3.1.unity
+    guid: a61fa141da9930343a4cdfdc76087749
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_3.2.unity
+    guid: 08258c52058485a47bdcab019ed0d364
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_3.3.unity
+    guid: 1af6867215e45d744a12fd91b3ef474f
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_4.1.unity
+    guid: c400357dc590a734fab05c1b3bdb1596
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_4.2.unity
+    guid: 53d98ae31c6601d45bd210d1dad574f1
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_4.3.unity
+    guid: 912ce9c4f4208124b9673d8a5b850acc
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_4.4.unity
+    guid: bd32f32701e2312409abba1ab6b9f12a
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_4.5.unity
+    guid: 2a695c3444643f04bbedb7654b908169
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_4.6.unity
+    guid: 8c08cac9664c40540ba4fb2f474ac91f
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_4.7.unity
+    guid: 7e8e1095821f1e148a191cc3744ede82
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_4.8.unity
+    guid: c91dd21a4c9b0244b9cd0b9699aa0144
+  - enabled: 1
+    path: Assets/Scenes/Interactives/How the Moon and Stars came to Be - Int_4.9.unity
+    guid: c1d1fb6a89b3dc840a1aea44260f5654
+  - enabled: 1
+    path: Assets/Scenes/Interactives/Maria Makiling - Int_2.1.unity
+    guid: 7625e47a06b209043b4f49d46ee56036
+  - enabled: 1
+    path: Assets/Scenes/Interactives/Maria Makiling - Int_2.2.unity
+    guid: fad260318c50e3e4d89936233ab5e690
+  - enabled: 1
+    path: Assets/Scenes/Interactives/Maria Makiling - Int_2.3.unity
+    guid: 36e29d52c03c1aa4eb162c2056ee61d4
+  - enabled: 1
+    path: Assets/Scenes/Interactives/Maria Makiling - Int_3.1.unity
+    guid: 3422cdb1f58daeb4f90f9530080cdf06
+  - enabled: 1
+    path: Assets/Scenes/Interactives/Maria Makiling - Int_3.2.unity
+    guid: bc5cae1e0f216234a98cdc90a7432515
+  - enabled: 1
+    path: Assets/Scenes/Interactives/Maria Makiling - Int_3.3.unity
+    guid: 389cfa12d884c4f4b8061ea66bfc1ebd
+  - enabled: 1
+    path: Assets/Scenes/Interactives/Maria Makiling - Int_3.4.unity
+    guid: 53686512ae443d74f856ef51e041d110
   m_configObjects: {}
