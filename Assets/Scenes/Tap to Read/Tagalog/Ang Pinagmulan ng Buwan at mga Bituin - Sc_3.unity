@@ -1756,14 +1756,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bb68737181d004c9398f5d6a6dc6e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textDisplay: {fileID: 74068485}
-  sentences:
-  - Nagsimula na siyang magtrabaho. Inangat niya ang kamay upang bumwelo sa pagbayo
-    ng palay at
-  - 'kanyang natatamaan ang langit. Sa bawat pag-angat ng kanyang kamay, umaangat
-    ang langit. '
-  typingSpeed: 0.02
-  continueButton: {fileID: 139768959}
 --- !u!114 &1462111479
 MonoBehaviour:
   m_ObjectHideFlags: 0
