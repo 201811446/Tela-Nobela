@@ -24,8 +24,12 @@ public class ScreenShot : MonoBehaviour
         texture.ReadPixels(new Rect(0, 0, Screen.width, Screen.height), 0, 0);
         texture.Apply();
 
-        byte[] bytes = texture.EncodeToPNG();
-        File.WriteAllBytes(Application.dataPath + "/Screenshot.png", bytes);
+        string name = "TelaNobela_ScreenShot" + System.DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss") + ".png";
+
+        //byte[] bytes = texture.EncodeToPNG();
+        //File.WriteAllBytes(Application.dataPath + "/Screenshot.png", bytes);
+
+        NativeGallery.SaveImageToGallery(texture, "Tela Nobela", name);
 
         Destroy(texture);
     }

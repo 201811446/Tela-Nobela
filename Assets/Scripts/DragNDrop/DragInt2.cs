@@ -18,8 +18,6 @@ public class DragInt2 : MonoBehaviour
 
     public int i;
 
-    public Timer tick;
-
     //private bool isCorrectPlace;
 
     void Start()
@@ -53,7 +51,6 @@ public class DragInt2 : MonoBehaviour
             coinz.coins += 1;
             if(coinz.coins == 3)
             { 
-                tick.currentTime = tick.startMinutes * 60;
                 SceneManager.LoadScene("WIN");
             }
         }

@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/StartScreen.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Update2/Menu/MainMenu.unity
+    guid: c632951a2b704f349b4927243c299e89
+  - enabled: 1
     path: Assets/Scenes/StoryMenu-Catalina.unity
     guid: 43a19deae4ff80c45a93769fab04effd
   - enabled: 1
@@ -84,20 +87,26 @@ EditorBuildSettings:
     path: Assets/DressUp123/DressUpMenu.unity
     guid: fbdbe4343393cc447b8170a795f444d9
   - enabled: 1
-    path: Assets/Scenes/Minigame/HOWTO.unity
-    guid: 9f221976169d04d42b7c4c88ecd3ee0b
-  - enabled: 1
     path: Assets/Scenes/Minigame/Minigame.unity
     guid: b042237aec4f18d4e9de4d4b727a4cd7
+  - enabled: 1
+    path: Assets/Scenes/Minigame/Minigame 1.unity
+    guid: 04a9ab074fc27ad4a9d7f6df0328cc2a
+  - enabled: 1
+    path: Assets/Scenes/Minigame/Minigame 2.unity
+    guid: 3e23c0a6d4ba9394c9e3804e942d2d10
+  - enabled: 1
+    path: Assets/Scenes/Minigame/Minigame 3.unity
+    guid: aa4edeb2bd35a414898c5b6cbb6d869f
+  - enabled: 1
+    path: Assets/Scenes/Minigame/HOWTO.unity
+    guid: 9f221976169d04d42b7c4c88ecd3ee0b
   - enabled: 1
     path: Assets/Scenes/Minigame/WIN.unity
     guid: 6bf4482e5c9e40d4981ccc6696ca97d2
   - enabled: 1
     path: Assets/Scenes/Minigame/LOSE.unity
     guid: 3816f02d6950fae409760655c96f5110
-  - enabled: 1
-    path: Assets/Update2/Menu/MainMenu.unity
-    guid: c632951a2b704f349b4927243c299e89
   - enabled: 1
     path: Assets/Scenes/DressUp/DSEL1.unity
     guid: 8ec9827d507dabc4797640a9b01e19e2
@@ -348,4 +357,37 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ReadAgain/Read Again.unity
     guid: d1b8fac43e948d94daee7359a0d09c60
+  - enabled: 1
+    path: Assets/DressUp123/PURCHASE.unity
+    guid: 59964cb9b7e3bae40a093eb233f67ea8
+  - enabled: 1
+    path: Assets/DressUp123/DressUpMenu 1.unity
+    guid: ca0986c73eee8ba439f78bac21b97c88
+  - enabled: 1
+    path: Assets/Update2/Menu/MainMenu 1.unity
+    guid: b81824c64c48ce7439b7f30620e5c52f
+  - enabled: 1
+    path: Assets/Update2/Menu/MainMenu 2.unity
+    guid: a7108322527bdae41a16a32a2dd14337
+  - enabled: 1
+    path: Assets/Scenes/DressUp/DSEL1 1.unity
+    guid: bc875dc51c65a2a4c890a09097059512
+  - enabled: 1
+    path: Assets/Scenes/DressUp/DSEL2 1.unity
+    guid: 9925fb33fca428c45ba035cb498a5df4
+  - enabled: 1
+    path: Assets/Scenes/DressUp/DSEL3 1.unity
+    guid: ed4a6440cb6c7db4ab8b7e038f724749
+  - enabled: 1
+    path: Assets/DressUp123/Dress4 1.unity
+    guid: 4aad8b5cd17c63a4eb45113889e898a6
+  - enabled: 1
+    path: Assets/DressUp123/Dress5 1.unity
+    guid: 9ae96c4bb7cfcfd47a502326667efb4b
+  - enabled: 1
+    path: Assets/DressUp123/Dress6 1.unity
+    guid: a6373e51bf0d2ea44ac8138081a2264d
+  - enabled: 1
+    path: Assets/Scenes/PopUp 1.unity
+    guid: 4b0b69bc5b3542a47bcba791cc06f4bf
   m_configObjects: {}

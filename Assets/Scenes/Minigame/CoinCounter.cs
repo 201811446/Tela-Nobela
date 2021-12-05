@@ -9,17 +9,19 @@ public class CoinCounter : MonoBehaviour
 
     public int coins;
     public Text currentcoins;
+    int coinceu;
 
     // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        currentcoins.text = coins.ToString();
+        coinceu = PlayerPrefs.GetInt("Score", coins);
+        currentcoins.text = coinceu.ToString();
     }
 
     
