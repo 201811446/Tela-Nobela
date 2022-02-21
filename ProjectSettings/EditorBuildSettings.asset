@@ -390,4 +390,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PopUp 1.unity
     guid: 4b0b69bc5b3542a47bcba791cc06f4bf
+  - enabled: 1
+    path: Assets/DressUp123/PURCHASECOM.unity
+    guid: bbbd8cd13a6ed474f89546cf22e861d0
+  - enabled: 1
+    path: Assets/DressUp123/QRCODE.unity
+    guid: f91eca9e4ff7afe45a77399437a97513
   m_configObjects: {}
